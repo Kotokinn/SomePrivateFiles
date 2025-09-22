@@ -1,3 +1,5 @@
 sudo pacman -S fcitx5 fcitx5-unikey fcitx5-configtool
 yay -S android-studio
 sudo pacman -S jdk17-openjdk
+yay -S onlyoffice-bin
+sudo pacman -S remmina freerdp libvncserver spice-gtk
