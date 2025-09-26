@@ -1,5 +1,21 @@
+sudo pacman -Syu
 sudo pacman -S fcitx5 fcitx5-unikey fcitx5-configtool
 yay -S android-studio
 sudo pacman -S jdk17-openjdk
 yay -S onlyoffice-bin
-sudo pacman -S remmina freerdp libvncserver spice-gtk
+sudo pacman -S freerdp remmina libvncserver spice-gtk
+ssh-keygen -t ed25519
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL6i28edBk+0Lu1Mho9nLqVTAtpYDBrla9LZTjUPJwvH kotokin@kot
+sudo pacman -S nodejs npm
+sudo pacman -S maven
+# tauri dev
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+    source "$HOME/.cargo/env.fish"
+    set -x ANDROID_HOME $HOME/Android/Sdk
+    set -x ANDROID_SDK $ANDROID_HOME
+    set -x PATH $PATH $ANDROID_HOME/emulator $ANDROID_HOME/platform-tools
+    set -x NDK_HOME $HOME/Android/Sdk/ndk/29.0.14033849/
+
+yay -S webkit2gtk-4.1
+
+yay -S sddm-silent-theme
