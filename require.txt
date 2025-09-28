@@ -17,5 +17,5 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     set -x NDK_HOME $HOME/Android/Sdk/ndk/29.0.14033849/
 
 yay -S webkit2gtk-4.1
-
+yay -S mqtt-explorer
 yay -S sddm-silent-theme
