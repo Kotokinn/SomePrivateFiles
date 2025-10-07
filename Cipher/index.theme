@@ -1,4 +1,5 @@
 [Icon Theme]
 Name=Cipher
 Comment=Cipher cursors
+CursorSize=48
 # KDE/GTK đọc file này để biết cách hiển thị theme

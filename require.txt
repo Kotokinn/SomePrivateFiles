@@ -5,9 +5,7 @@ sudo pacman -S jdk17-openjdk
 yay -S onlyoffice-bin
 sudo pacman -S freerdp remmina libvncserver spice-gtk
 ssh-keygen -t ed25519
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIL6i28edBk+0Lu1Mho9nLqVTAtpYDBrla9LZTjUPJwvH kotokin@kot
-sudo pacman -S nodejs npm
-sudo pacman -S maven
+sudo pacman -S nodejs-lts-iron npm maven
 # tauri dev
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     source "$HOME/.cargo/env.fish"
@@ -16,6 +14,14 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
     set -x PATH $PATH $ANDROID_HOME/emulator $ANDROID_HOME/platform-tools
     set -x NDK_HOME $HOME/Android/Sdk/ndk/29.0.14033849/
 
-yay -S webkit2gtk-4.1
-yay -S mqtt-explorer
-yay -S sddm-silent-theme
+yay -S webkit2gtk-4.1 mqtt-explorer sddm-silent-theme
+sudo pacman -S easyeffects
+
+
+echo "blacklist nouveau" | sudo tee /etc/modprobe.d/blacklist-nouveau.conf
+sudo mkinitcpio -P
+sudo pacman -Syu nvidia nvidia-utils nvidia-prime nvidia-lts mesa-utils
+nvidia-smi
+
+prime-run glxinfo | grep "OpenGL renderer"
+
