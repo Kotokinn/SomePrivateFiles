@@ -25,3 +25,19 @@ nvidia-smi
 
 prime-run glxinfo | grep "OpenGL renderer"
 
+sudo systemctl edit sddm.service
+// paste nay vao
+[Unit]
+After=systemd-user-sessions.service nvidia-persistenced.service
+Wants=nvidia-persistenced.service
+// ctrl + o va 
+sudo systemctl daemon-reload
+sudo systemctl restart sddm
+
+
+//auto mount usbdata
+ACTION=="add", ENV{ID_FS_UUID}=="0060ec9e-126c-4195-a7de-75f8e6361b53", RUN+="/usr/bin/systemd-mount --no-block /dev/%k /run/media/kotokin/0060ec9e-126c-4195-a7de-75f8e6361b53"
+ACTION=="remove", ENV{ID_FS_UUID}=="0060ec9e-126c-4195-a7de-75f8e6361b53", RUN+="/usr/bin/systemd-umount /run/media/kotokin/0060ec9e-126c-4195-a7de-75f8e6361b53"
+
+// van tay
+sudo pacman -S fprintd libfprint
