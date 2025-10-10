@@ -1,5 +1,21 @@
 [Icon Theme]
-Name=Cipher
-Comment=Cipher cursors
-CursorSize=48
-# KDE/GTK đọc file này để biết cách hiển thị theme
+Name=fullsize_pro_cursors
+Name[en]=fullsize_pro_cursors - Full Size
+Comment=High-quality X11 cursor theme with multiple sizes
+Comment[en]=High-quality X11 cursor theme with multiple sizes for all display types
+Inherits=core
+Example=left_ptr
+
+[Icon Theme Directory]
+Size=24
+Type=Fixed
+Sizes=16,24,32,48,64,96,128
+MinSize=16
+MaxSize=128
+Threshold=2
+
+[Desktop Entry]
+Type=X-Cursor-Theme
+Name=fullsize_pro_cursors
+Comment=Full-size cursor theme
+X-KDE-FallbackTheme=core

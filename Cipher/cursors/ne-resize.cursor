@@ -1,0 +1,8 @@
+# ne-resize cursor - Optimized multi-size
+16 14 2 ne-resize_16x16.png 100
+24 21 3 ne-resize_24x24.png 100
+32 28 4 ne-resize_32x32.png 100
+48 42 6 ne-resize_48x48.png 100
+64 56 8 ne-resize_64x64.png 100
+96 84 12 ne-resize_96x96.png 100
+128 112 16 ne-resize_128x128.png 100

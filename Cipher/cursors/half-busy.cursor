@@ -1,0 +1,8 @@
+# half-busy cursor - Optimized multi-size
+16 8 8 half-busy_16x16.png 100
+24 12 12 half-busy_24x24.png 100
+32 16 16 half-busy_32x32.png 100
+48 24 24 half-busy_48x48.png 100
+64 32 32 half-busy_64x64.png 100
+96 48 48 half-busy_96x96.png 100
+128 64 64 half-busy_128x128.png 100

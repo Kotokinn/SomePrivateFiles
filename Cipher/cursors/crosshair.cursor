@@ -1,0 +1,8 @@
+# crosshair cursor - Optimized multi-size
+16 8 8 crosshair_16x16.png 100
+24 12 12 crosshair_24x24.png 100
+32 16 16 crosshair_32x32.png 100
+48 24 24 crosshair_48x48.png 100
+64 32 32 crosshair_64x64.png 100
+96 48 48 crosshair_96x96.png 100
+128 64 64 crosshair_128x128.png 100

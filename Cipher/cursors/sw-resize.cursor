@@ -1,0 +1,8 @@
+# sw-resize cursor - Optimized multi-size
+16 2 14 sw-resize_16x16.png 100
+24 3 21 sw-resize_24x24.png 100
+32 4 28 sw-resize_32x32.png 100
+48 6 42 sw-resize_48x48.png 100
+64 8 56 sw-resize_64x64.png 100
+96 12 84 sw-resize_96x96.png 100
+128 16 112 sw-resize_128x128.png 100

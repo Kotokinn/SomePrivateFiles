@@ -1,0 +1,8 @@
+# size_hor cursor - Optimized multi-size
+16 8 8 size_hor_16x16.png 100
+24 12 12 size_hor_24x24.png 100
+32 16 16 size_hor_32x32.png 100
+48 24 24 size_hor_48x48.png 100
+64 32 32 size_hor_64x64.png 100
+96 48 48 size_hor_96x96.png 100
+128 64 64 size_hor_128x128.png 100

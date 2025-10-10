@@ -1,0 +1,8 @@
+# nw-resize cursor - Optimized multi-size
+16 2 2 nw-resize_16x16.png 100
+24 3 3 nw-resize_24x24.png 100
+32 4 4 nw-resize_32x32.png 100
+48 6 6 nw-resize_48x48.png 100
+64 8 8 nw-resize_64x64.png 100
+96 12 12 nw-resize_96x96.png 100
+128 16 16 nw-resize_128x128.png 100

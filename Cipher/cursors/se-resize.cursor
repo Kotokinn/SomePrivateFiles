@@ -1,0 +1,8 @@
+# se-resize cursor - Optimized multi-size
+16 14 14 se-resize_16x16.png 100
+24 21 21 se-resize_24x24.png 100
+32 28 28 se-resize_32x32.png 100
+48 42 42 se-resize_48x48.png 100
+64 56 56 se-resize_64x64.png 100
+96 84 84 se-resize_96x96.png 100
+128 112 112 se-resize_128x128.png 100

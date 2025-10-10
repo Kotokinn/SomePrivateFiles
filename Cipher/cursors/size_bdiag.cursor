@@ -1,0 +1,8 @@
+# size_bdiag cursor - Optimized multi-size
+16 14 2 size_bdiag_16x16.png 100
+24 21 3 size_bdiag_24x24.png 100
+32 28 4 size_bdiag_32x32.png 100
+48 42 6 size_bdiag_48x48.png 100
+64 56 8 size_bdiag_64x64.png 100
+96 84 12 size_bdiag_96x96.png 100
+128 112 16 size_bdiag_128x128.png 100

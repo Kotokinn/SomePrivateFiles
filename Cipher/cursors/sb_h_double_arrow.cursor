@@ -1,0 +1,8 @@
+# sb_h_double_arrow cursor - Optimized multi-size
+16 8 8 sb_h_double_arrow_16x16.png 100
+24 12 12 sb_h_double_arrow_24x24.png 100
+32 16 16 sb_h_double_arrow_32x32.png 100
+48 24 24 sb_h_double_arrow_48x48.png 100
+64 32 32 sb_h_double_arrow_64x64.png 100
+96 48 48 sb_h_double_arrow_96x96.png 100
+128 64 64 sb_h_double_arrow_128x128.png 100

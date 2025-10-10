@@ -1,0 +1,8 @@
+# arrow cursor - Optimized multi-size
+16 1 1 arrow_16x16.png 100
+24 1 1 arrow_24x24.png 100
+32 2 2 arrow_32x32.png 100
+48 3 3 arrow_48x48.png 100
+64 4 4 arrow_64x64.png 100
+96 6 6 arrow_96x96.png 100
+128 8 8 arrow_128x128.png 100

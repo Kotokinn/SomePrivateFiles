@@ -1,0 +1,8 @@
+# hand1 cursor - Optimized multi-size
+16 8 8 hand1_16x16.png 100
+24 12 12 hand1_24x24.png 100
+32 16 16 hand1_32x32.png 100
+48 24 24 hand1_48x48.png 100
+64 32 32 hand1_64x64.png 100
+96 48 48 hand1_96x96.png 100
+128 64 64 hand1_128x128.png 100

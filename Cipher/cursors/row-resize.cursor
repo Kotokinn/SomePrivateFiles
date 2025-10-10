@@ -1,0 +1,8 @@
+# row-resize cursor - Optimized multi-size
+16 8 8 row-resize_16x16.png 100
+24 12 12 row-resize_24x24.png 100
+32 16 16 row-resize_32x32.png 100
+48 24 24 row-resize_48x48.png 100
+64 32 32 row-resize_64x64.png 100
+96 48 48 row-resize_96x96.png 100
+128 64 64 row-resize_128x128.png 100

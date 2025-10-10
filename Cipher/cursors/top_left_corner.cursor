@@ -1,0 +1,8 @@
+# top_left_corner cursor - Optimized multi-size
+16 2 2 top_left_corner_16x16.png 100
+24 3 3 top_left_corner_24x24.png 100
+32 4 4 top_left_corner_32x32.png 100
+48 6 6 top_left_corner_48x48.png 100
+64 8 8 top_left_corner_64x64.png 100
+96 12 12 top_left_corner_96x96.png 100
+128 16 16 top_left_corner_128x128.png 100

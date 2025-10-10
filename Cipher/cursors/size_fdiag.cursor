@@ -1,0 +1,8 @@
+# size_fdiag cursor - Optimized multi-size
+16 2 2 size_fdiag_16x16.png 100
+24 3 3 size_fdiag_24x24.png 100
+32 4 4 size_fdiag_32x32.png 100
+48 6 6 size_fdiag_48x48.png 100
+64 8 8 size_fdiag_64x64.png 100
+96 12 12 size_fdiag_96x96.png 100
+128 16 16 size_fdiag_128x128.png 100

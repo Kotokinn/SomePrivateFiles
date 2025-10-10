@@ -1,0 +1,8 @@
+# right_ptr cursor - Optimized multi-size
+16 1 1 right_ptr_16x16.png 100
+24 1 1 right_ptr_24x24.png 100
+32 2 2 right_ptr_32x32.png 100
+48 3 3 right_ptr_48x48.png 100
+64 4 4 right_ptr_64x64.png 100
+96 6 6 right_ptr_96x96.png 100
+128 8 8 right_ptr_128x128.png 100

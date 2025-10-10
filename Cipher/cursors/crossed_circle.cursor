@@ -1,0 +1,8 @@
+# crossed_circle cursor - Optimized multi-size
+16 8 8 crossed_circle_16x16.png 100
+24 12 12 crossed_circle_24x24.png 100
+32 16 16 crossed_circle_32x32.png 100
+48 24 24 crossed_circle_48x48.png 100
+64 32 32 crossed_circle_64x64.png 100
+96 48 48 crossed_circle_96x96.png 100
+128 64 64 crossed_circle_128x128.png 100

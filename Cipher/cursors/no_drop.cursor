@@ -1,0 +1,8 @@
+# no_drop cursor - Optimized multi-size
+16 8 8 no_drop_16x16.png 100
+24 12 12 no_drop_24x24.png 100
+32 16 16 no_drop_32x32.png 100
+48 24 24 no_drop_48x48.png 100
+64 32 32 no_drop_64x64.png 100
+96 48 48 no_drop_96x96.png 100
+128 64 64 no_drop_128x128.png 100

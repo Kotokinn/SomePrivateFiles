@@ -1,0 +1,8 @@
+# dnd-none cursor - Optimized multi-size
+16 8 8 dnd-none_16x16.png 100
+24 12 12 dnd-none_24x24.png 100
+32 16 16 dnd-none_32x32.png 100
+48 24 24 dnd-none_48x48.png 100
+64 32 32 dnd-none_64x64.png 100
+96 48 48 dnd-none_96x96.png 100
+128 64 64 dnd-none_128x128.png 100
